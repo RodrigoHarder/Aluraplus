@@ -19,11 +19,6 @@ Desenvolvimento da página inicial do Alura Plus. O projeto foi desenvolvido ao 
 - Conhecimento sobre pseudoclasses: `:hover`, `:root:`, `:active`, `:link`, `:focus`;
 - Aproveitamento do código CSS para áreas semelhantes no site;
 
-## **Funcionalidades**
-
-Para ter acesso ao projeto e tudo que ele possui basta clicar [neste link](https://rodrigoharder.github.io/alura-plus/).
-
-
 ## **Como usar os arquivos?**
 
 - Inicialmente você precisa ter instalado em seu computador um editor de código-fonte, no meu caso eu utilizo o [Visual Studio Code](https://code.visualstudio.com/download). 
